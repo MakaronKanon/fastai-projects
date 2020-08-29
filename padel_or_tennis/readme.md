@@ -1,1 +1,1 @@
-Image classification model that recognizes if a ball is a tennisball or padelball.
+Image classification model that recognizes if a racket is a tennisracket or padelracket.
